@@ -1,0 +1,220 @@
+/*
+CSS stylesheet for WhereMyFriends.At
+Dan Shipper
+Wesley Zhao
+Ajay Mehta  
+2011
+*/
+
+/* reset body */
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: white;
+}
+
+/* main things */ 
+
+@font-face {
+	font-family: Hobo;
+	src: url('HoboStd.otf');
+}
+
+
+#heading {
+	font-family: Hobo;
+	font-weight: regular;
+	font-size: 50px;
+	color: #FFFFFF;
+	text-align:center;
+	height: 50px;
+	width: 100%;
+	background-color: #ff3368; 
+	padding-top: 10px;  
+	padding-bottom: 10px;
+	
+}
+
+#subheading {   
+	font: 27px Helvetica;      
+	width: 900px;
+	margin: auto; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color:#343434;
+	font-weight: bold; 
+	text-align: center;
+} 
+
+#fb-bar{
+	width: 864px;  
+	background-color: #343434;
+	margin: auto;
+	font: 29px Helvetica;
+	color: #FFFFFF;   
+	text-align: left;
+   	padding: 10px;      
+	
+}       
+
+#fb-button{  
+	padding-top: 5px;      
+}
+
+#subsubheading{
+	font: 24px Georgia;      
+	width: 950px;
+	margin: auto;     
+	padding-bottom: 20px;
+	color:#343434;       
+	text-align: center;
+}
+
+#description{
+	width:800px;
+	background:white;
+	text-align:center;
+	margin:10px auto 10px auto;
+	padding-top:15px;
+	color:#003366;
+	font-size:14px;
+}   
+
+#main-image{
+	padding-top: 10px;
+}
+
+h2 {
+	font-size:16px;
+}
+
+h3 {
+	font-size:12px;
+	color:grey;
+}
+
+#footer{
+    clear: both;
+    width: 884px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-bottom: 15px;
+    font-family:"Courier New";
+    height: 40px;
+    font-size:12px;
+}
+
+#footer a:link,a:visited {
+    text-decoration: none;
+    color: #2c4df5;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}      
+
+#map_canvas{
+	height: 500px;
+	width: 950px;
+	margin: auto;
+}
+  
+
+img{
+	border: 0;	
+}
+a {
+	outline: none;
+	color: #244ac5;
+  	text-decoration: none;
+   	
+}
+a img{
+	border: none;	
+} 
+
+.reload{
+	font-weight: bold;
+	color: #363636;
+	font: 17px Helvetica;
+}
+
+.reload a:link{
+	color:#3B5998;
+}
+
+.reload a:visited{
+	color:#3B5998;
+}
+
+.reload a:hover {
+	text-decoration:underline;
+}
+
+.share-this{
+   font-size: 18px;
+   font-family:Helvetica;
+   color: #3B5998;
+   clear:left;
+   display:inline;
+   padding-right:10px;
+   padding-bottom:5px;
+   margin-bottom:10px;
+}
+
+.smaller-share{
+	clear:both;
+	font-size:14px;
+	color:black;
+	padding-bottom:10px;
+	padding-top:5px;
+}
+
+#plug {
+	font-family:helvetica;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	vertical-align:middle;
+	height:40px;
+	margin-top:5px;
+}
+
+#plug img {
+	height:30px;
+	vertical-align:middle;
+}
+
+#plug a:link{
+	color:#3B5998;
+}
+
+#plug a:visited{
+	color:#3B5998;
+}
+
+#plug a:hover {
+	text-decoration:underline;
+}
+
+.make-your-own{
+	text-align:center;
+	font-size:18px;
+    font-family:"Helvetica";
+    width:auto;
+    height:auto;
+    margin: 0px auto 0px auto;
+    background: #F2E5FF;
+    width:700px;
+    padding:5px;
+    border:2px outset gray; border-radius:0px 0px 10px 10px; -moz-border-radius: 0px 0px 10px 10px; -khtml-border-radius: 0px 0px 10px 10px; -webkit-border-radius: 0px 0px 10px 10px;
+	border-top:none;
+	line-height:1.75em;
+}
+
+.make-your-own img {
+	vertical-align:middle;
+}

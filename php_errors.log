@@ -1,0 +1,223 @@
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.35.58' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 14
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.35.58' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:45:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 18
+[24-Feb-2011 00:45:42] PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/src/facebook.php on line 543
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 14
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:46:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 18
+[24-Feb-2011 00:46:16] PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/src/facebook.php on line 543
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 13
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/profile.php on line 14
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 17
+[24-Feb-2011 00:47:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_check_functions.php on line 18
+[24-Feb-2011 00:47:04] PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/src/facebook.php on line 543
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 7
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 7
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 8
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 10
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 10
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 11
+[24-Feb-2011 00:47:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 17
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user '565704_wmf'@'172.17.66.34' (using password: YES) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 5
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/mysql_connect.php on line 6
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 7
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 7
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 8
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 10
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 10
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 11
+[24-Feb-2011 00:47:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/users.php on line 17
+[24-Feb-2011 00:53:16] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:53:24] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:53:57] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:55:14] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:55:50] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:56:11] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:56:14] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:57:00] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:58:00] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:58:00] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Chalfont+Saint+Giles,Slough,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 00:58:01] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Ryde,Portsmouth,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 00:58:31] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Santiago+De+Los+Caballeros,Santiago,Dominican Republic&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 00:58:37] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Ensanche+Alma+Rosa,Distrito+Nacional,Dominican Republic&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 00:58:43] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:58:55] Could not set cookie. Headers already sent.
+[24-Feb-2011 00:59:08] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Enfield,Enfield,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 00:59:23] PHP Fatal error:  Call to undefined function  getfbshare() in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/index.php on line 21
+[24-Feb-2011 00:59:24] PHP Fatal error:  Call to a member function api() on a non-object in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 177
+[24-Feb-2011 00:59:44] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Nakkila,&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:00:22] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Batam,Ouham,Central African Republic&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:02:46] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Radcliffe,Bury,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:03:01] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:04:16] PHP Fatal error:  Uncaught OAuthException: (#604) Can't lookup all friends of 586377972. Can only lookup for the logged in user (0), or friends of the logged in user with the appropriate permission
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/src/facebook.php on line 543
+[24-Feb-2011 01:04:24] PHP Fatal error:  Uncaught Exception: 190: Invalid OAuth 2.0 Access Token
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/src/facebook.php on line 515
+[24-Feb-2011 01:05:01] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:05:05] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:05:05] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=South+Leverton,Lincolnshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:05:06] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:05:13] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:05:37] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Partridge+Green,West+Sussex,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:05:58] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:06:17] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Clifton,Western+Cape,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:06:25] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:06:25] PHP Fatal error:  Uncaught GraphMethodException: Unsupported get request.
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/src/facebook.php on line 543
+[24-Feb-2011 01:06:28] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Ciudad+San+Vito,Puntarenas,Costa Rica&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:06:29] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:06:32] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Stanningley,Leeds,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:06:37] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:06:58] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:07] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:11] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:19] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Roath,Cardiff,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:07:29] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:36] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:54] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:07:59] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=San+Pedro+De+Montes+De+Oca,San+Jose,Costa Rica&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:08:54] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:09:02] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:09:13] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Wembley,Brent,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:09:26] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:09:33] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:09:34] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Hackney,Hackney,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:09:44] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Glandwr,Pembrokeshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:10:07] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Newtonmore,Highland,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:10:38] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Roberton,Scottish+Borders,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:10:38] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Odolena+Voda,Hlavní+Město+Praha,Czech Republic&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:11:18] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Ashbourne,Derby,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:11:36] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=San+Antonio+De+Belen,Heredia,Costa Rica&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:12:16] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Maxton,Scottish+Borders,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:12:48] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Whalley,Blackburn+With+Darwen,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:12:53] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Hendon,Barnet,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:13:33] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Buckley,Flintshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:13:55] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:14:06] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Newmarket,Norfolk,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:14:31] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Warrington,Milton+Keynes,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:14:42] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Hyde,Tameside,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:14:52] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:15:06] PHP Fatal error:  Uncaught Exception: 190: Invalid OAuth 2.0 Access Token
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/src/facebook.php on line 515
+[24-Feb-2011 01:15:17] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Abergwaun,Pembrokeshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:15:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:15:50] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Chaguaramas,Saint+George,Trinidad And Tobago&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:16:04] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:16:13] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:16:37] PHP Warning:  Invalid argument supplied for foreach() in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/facebook_config.php on line 110
+[24-Feb-2011 01:16:53] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Rawdon,Leeds,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:17:45] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=West+Linton,Fife,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:17:51] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:18:05] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Mellor,Blackburn+With+Darwen,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:18:15] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:18:55] Could not set cookie. Headers already sent.
+[24-Feb-2011 01:19:04] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Clifton,Bristol,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:19:06] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Whitefield,Bury,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:19:29] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Yanbu`,Al+Madinah,Saudi Arabia&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:19:30] PHP Fatal error:  Uncaught OAuthException: (#200) This API call requires a valid app_id.
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/src/facebook.php on line 543
+[24-Feb-2011 01:19:55] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Jesmond,Newcastle+Upon+Tyne,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:20:03] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Yanbu+Al+Sinaiyah,Al+Madinah,Saudi Arabia&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:20:14] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Madeley,Stoke-On-Trent,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:20:42] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Welwyn,Hertfordshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:21:18] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Glenvista,Gauteng,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:21:21] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Stockland+Bristol,Somerset,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:21:32] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Cathays,Cardiff,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:21:39] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Wyken,Coventry,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:21:51] PHP Fatal error:  Uncaught CurlException: 28: connect() timed out!
+  thrown in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/src/facebook.php on line 622
+[24-Feb-2011 01:22:36] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Wentworth,Kwazulu-Natal,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:22:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:22:45] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Camperdown,Kwazulu-Natal,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:23:13] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Lower+Slaughter,Gloucestershire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:23:20] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Litlington,Cambridgeshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:23:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/profile_functions.php on line 41
+[24-Feb-2011 01:23:48] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Berea,Kwazulu-Natal,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:23:52] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Morningside,Kwazulu-Natal,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:24:12] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Great+Brak+River,Western+Cape,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:24:18] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Nottigham,Nottingham,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:24:21] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Scottburgh+South,Kwazulu-Natal,South Africa&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:24:21] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Holywood,Dumfries+And+Galloway,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36
+[24-Feb-2011 01:24:22] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/geocode/json?address=Grimsby,North+East+Lincolnshire,United Kingdom&amp;sensor=false) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /mnt/stor10-wc2-dfw1/565704/www.wheremyfriends.be/web/content/php-scripts/google_map_functions.php on line 36

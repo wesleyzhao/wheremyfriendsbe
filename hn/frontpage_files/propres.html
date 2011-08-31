@@ -1,0 +1,41 @@
+var co2stats_width = 0, co2stats_height = 0;
+if( typeof( window.innerWidth ) == 'number' ) {
+  //Non-IE
+  co2stats_width = window.innerWidth;
+  co2stats_height = window.innerHeight;
+} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+  //IE 6+ in 'standards compliant mode'
+  co2stats_width = document.documentElement.clientWidth;
+  co2stats_height = document.documentElement.clientHeight;
+} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+  //IE 4 compatible
+  co2stats_width = document.body.clientWidth;
+  co2stats_height = document.body.clientHeight;
+}
+co2stats_scrfr = (co2stats_width*co2stats_height+0.0)/(screen.width*screen.height);
+
+  document.write('<script type="text/javascript">var tmMarkSizes=[1,3,4,4,3,1,0,0];var tmMarkIndex,tmObj,tmBaseWidth,tmBaseHeight;function tmStartThrob(id){ tmObj=document.getElementById(id);tmBaseWidth=103;tmBaseHeight=41;tmObj.margin="4px 4px 4px 4px";tmMarkIndex=0;tmDoThrob();}function tmDoThrob(){tmObj.style.width=(tmBaseWidth+tmMarkSizes[tmMarkIndex]*2)+"px";tmObj.style.height=(tmBaseHeight+tmMarkSizes[tmMarkIndex]*2)+"px";tmObj.style.margin=(4-tmMarkSizes[tmMarkIndex])+"px "+(4-tmMarkSizes[tmMarkIndex])+"px "+(4-tmMarkSizes[tmMarkIndex])+"px "+(4-tmMarkSizes[tmMarkIndex])+"px";if (tmMarkIndex==7) tmMarkIndex=0;else tmMarkIndex++;tmThrobber=setTimeout("tmDoThrob()",50);}function tmStopThrob(){clearTimeout(tmThrobber);tmObj.style.width="103px";tmObj.style.height="41px";tmObj.style.margin="4px 4px 4px 4px";}</script>');
+document.write('<a href="http://www.co2stats.com/certpro.php?s=1138&ref='+location.href+'" onmouseover="co2stats_onhover();" onmouseout="co2stats_onmouseout();" onclick="window.open(\'http://www.co2stats.com/certpro.php?s=1138&ref='+location.href+'\',\'popup\',\'width=550,height=575,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0\');return false;"><img src="http://www.co2stats.com/prowidget.php?s=1138&scrfr=' + co2stats_scrfr + '&ref='+location.href+'" style="margin:4px 4px 4px 4px;" border="0" alt="Click to verify green certification." id="badgeimg"  > </a>');
+
+co2stats_img = new Image();
+co2stats_img.onload = function() { co2stats_img = new Image(); }
+co2stats_img.onerror = function() { co2stats_img = new Image(); }
+
+co2stats_hover = new Image();
+co2stats_hover.onload = function() { co2stats_hover = new Image(); }
+co2stats_hover.onerror = function() { co2stats_hover = new Image(); }
+
+function co2stats_upd() {
+  co2stats_img.src = 'http://www.co2stats.com/prowidget.php?s=1138&ref=' + location.href + '&scrfr=' + co2stats_scrfr + '&noshow=1';
+}
+
+function co2stats_onhover() {
+       tmStartThrob('badgeimg');
+  co2stats_hover.src = 'http://www.co2stats.com/prowidget.php?s=1138&hover=1&ref=' + location.href;
+}
+
+function co2stats_onmouseout() {
+       tmStopThrob();
+} 
+
+setInterval("co2stats_upd()",300000);
